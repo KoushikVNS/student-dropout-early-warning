@@ -5,7 +5,7 @@ activity in an online course. It explains each flag with SHAP and lets a teacher
 
 **Author:** Kaushik Chakraborty
 
-**Live app:** _link coming after deployment_
+**Live app:** https://kaushik-sdews.streamlit.app
 
 ![Class overview](figures/07_dashboard_overview.jpg)
 
